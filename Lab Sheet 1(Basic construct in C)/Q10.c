@@ -10,7 +10,7 @@ int main(){
     scanf("%d%d%d%d%d",&a,&b,&c,&d,&e);
 
     agg_marks=(a+b+c+d+e);
-    printf("The average of of given stugent is %f.\n", agg_marks);
+    printf("The average of given student is %f.\n", agg_marks);
 
    percentage=agg_marks/5;
     printf("The average of of given stugent is %f.\n", percentage);
