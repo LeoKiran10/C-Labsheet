@@ -13,7 +13,7 @@ int main(){
     printf("The average of given student is %f.\n", agg_marks);
 
    percentage=agg_marks/5;
-    printf("The average of of given stugent is %f.\n", percentage);
+    printf("The average of  given student is %f.\n", percentage);
 
    return 0;
 }
